@@ -1,0 +1,8 @@
+{
+  "name": "team-hub",
+  "version": "1.0.0",
+  "description": "Project tracker, action tracker, weekly updates and handover log for small teams",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test tests/*.test.js" }
+}
